@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 
-chromedriver_win32/chromedriver.exe
+# ignore all executable files
+*.exe
